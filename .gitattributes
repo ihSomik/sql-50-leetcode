@@ -1,0 +1,4 @@
+# Force GitHub to detect .sql as SQL
+*.sql linguist-detectable=true
+
+
